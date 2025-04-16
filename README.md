@@ -1,4 +1,4 @@
-# database-gym-company
+# database-gym-chain-company
 ΕΦΑΡΜΟΓΗ ΔΙΑΧΕΙΡΙΣΗΣ ΑΛΥΣΙΔΑΣ ΓΥΜΝΑΣΤΗΡΙΩΝ
 ΟΔΗΓΙΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
 
